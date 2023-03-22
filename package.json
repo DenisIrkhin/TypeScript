@@ -39,7 +39,7 @@
         "@types/gulp-concat": "latest",
         "@types/gulp-newer": "latest",
         "@types/gulp-rename": "0.0.33",
-        "@types/gulp-sourcemaps": "0.0.32",
+        "@types/gulp-sourcemaps": "0.0.35",
         "@types/jake": "latest",
         "@types/merge2": "latest",
         "@types/microsoft__typescript-etw": "latest",
